@@ -1,7 +1,7 @@
 # PROJECT_1
 # AIR CRASH INVESTIGATION
 **Authored by: DAVID .W. MUKOLWE**
-# AIR-CRASH INVESTIGATION 
+# Air crash investigation: 
 will focus on analyzing the accidents from the dataset:
  link to dataset:
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
@@ -96,7 +96,7 @@ use functon .sort_values specyfying count name and ascending= False
 # Vizualize
 
 ![da3b240d-3cb3-4852-adff-d5a2e0ac6d6d](https://github.com/davidwabuko/Project_1/assets/170512794/5a119c19-e97e-4315-b4e9-7e9546139dd1)
-THE END.
+# THE END.
 
 
 

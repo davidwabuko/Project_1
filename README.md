@@ -57,7 +57,7 @@ The most suitable visualization will be a bar graph,
 
 - X and Y labels will be names of the columns we were dealing with initially this is 'Make'  and 'Destroyed.count' respectively
 
-![Alt text](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/57158556-d32b-4838-be6a-4fa73d9b4980)
+![Alt](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/57158556-d32b-4838-be6a-4fa73d9b4980)
 
 # 2.Which make has had the most accidents whike which have the least:-
 
@@ -75,7 +75,7 @@ From the cleaned data create new variables for 'Makes' and 'Accident.count' and 
 the new variable will offer relevant points for plotting.
 # Visualizing:-
 
-![Alt text](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/2fa14864-2a4f-4f12-9660-2242a9b36419)
+![Alt](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/2fa14864-2a4f-4f12-9660-2242a9b36419)
 
 # 3.Take a look at comparing Make of the Aircraft to Purpose of flight to know which Aircraft were booked more for corporate Trips :
 
@@ -95,6 +95,6 @@ sort the values to see from top count to the least count
 use functon .sort_values specyfying count name and ascending= False
 
 # Vizualize
-![Alt text](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/d04c0baf-81c8-4c31-9a88-a187f5a86409)
+![Alt](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/d04c0baf-81c8-4c31-9a88-a187f5a86409)
 
 

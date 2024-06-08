@@ -75,7 +75,7 @@ From the cleaned data create new variables for 'Makes' and 'Accident.count' and 
 the new variable will offer relevant points for plotting.
 # Visualizing:-
 
-![Alt](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/2fa14864-2a4f-4f12-9660-2242a9b36419)
+![7c83de08-b298-4347-943d-472fae50949a](https://github.com/davidwabuko/Project_1/assets/170512794/cd784cd3-94a2-471e-a393-18cc1ac34879)
 
 # 3.Take a look at comparing Make of the Aircraft to Purpose of flight to know which Aircraft were booked more for corporate Trips :
 
@@ -84,7 +84,6 @@ For this relationship columns to be used are 'Purpose.of.flight' and 'Make' for 
 Clean this column first as it contains alot of Null values which will lead to not receiving correct output if used without modifying and getting rid of the null values.
 
 - For this use .isnull( ).sum( ) to view the total number of null values
-
 Now that we know all our null values go ahead to drop them inorder to work with clean data
 use .notna( ) or .dropna( ) in their correct parameters to eliminate the null values
  The column we are using in the data frame has been cleaned and null values eliminated
@@ -95,6 +94,9 @@ sort the values to see from top count to the least count
 use functon .sort_values specyfying count name and ascending= False
 
 # Vizualize
-![Alt](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/d04c0baf-81c8-4c31-9a88-a187f5a86409)
+
+![da3b240d-3cb3-4852-adff-d5a2e0ac6d6d](https://github.com/davidwabuko/Project_1/assets/170512794/5a119c19-e97e-4315-b4e9-7e9546139dd1)
+THE END.
+
 
 

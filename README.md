@@ -56,8 +56,9 @@ The most suitable visualization will be a bar graph,
 - Title for the bar graph is  'Aircraft Damage by Make'
 
 - X and Y labels will be names of the columns we were dealing with initially this is 'Make'  and 'Destroyed.count' respectively
+  
+![f3e9a5ce-8b42-48e5-a75b-6d16f90f0142](https://github.com/davidwabuko/Project_1/assets/170512794/296b94fa-20f1-4d21-a1df-b0d99e48ac8d)
 
-![Alt](blob:vscode-webview://0h7gnib4c9nsthqo0shiiaankfdnplonc45rkjof5qroumndtp7e/57158556-d32b-4838-be6a-4fa73d9b4980)
 
 # 2.Which make has had the most accidents whike which have the least:-
 
